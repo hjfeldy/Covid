@@ -8,6 +8,6 @@ Either keep the code as it is to do all the work for you, or switch the URL in t
 
 This code should run quickly without any issue
 
-## 3. Merge the two with Capacity_Merge.ipynb
+## 3. Merge the two -- Capacity_Merge.ipynb
 
 You should not have to do anything besides change the URL in the first cell of step # 1. Besides that, you should only have to hit "run" 3 times. 
