@@ -36,8 +36,11 @@ We will attempt to create a decision tool to help health care providers distribu
 
 ## Dataset to Be Used
 
-The dataset that we plan to utilize is sourced from cdc.gov and is the COVID-19 Case Surveillance Public Use Data Profile, located at:
+The datasets that we plan to utilize are sourced from cdc.gov and healthdata.gov.
+1. COVID-19 Case Surveillance Public Use Data Profile, located at:
 https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-Profile/xigx-wn5e
+2. Hospital Capacity Data, located at:
+https://healthdata.gov/sites/default/files/reported_hospital_utilization_timeseries_20201213_2141.csv
 
 ## Rough Breakdown of Tasks
 
