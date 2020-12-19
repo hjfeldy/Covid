@@ -39,6 +39,7 @@ We will attempt to create a decision tool to help health care providers distribu
 The datasets that we plan to utilize are sourced from cdc.gov and healthdata.gov.
 1. [COVID-19 Case Surveillance Public Use Data Profile](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-Profile/xigx-wn5e)
 2. [Hospital Capacity Data](https://healthdata.gov/sites/default/files/reported_hospital_utilization_timeseries_20201213_2141.csv)
+3. [Conditions contributing to deaths involving coronavirus disease](https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm)
 
 ## Rough Breakdown of Tasks
 
