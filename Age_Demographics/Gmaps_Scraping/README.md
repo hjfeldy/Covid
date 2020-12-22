@@ -7,7 +7,7 @@ In order for this script to work, you will need:
 * Firefox
 * Selenium (install with pip or conda)
 * The proper [Geckodriver](https://github.com/mozilla/geckodriver/releases/tag/v0.28.0) package for your OS (everything is supported)
-* Geckodriver must be added to your PATH. I found [this] video to be helpful. (https://www.youtube.com/watch?v=iTyK5KGNx-Y)
+* Geckodriver must be added to your PATH. I found [this](https://www.youtube.com/watch?v=iTyK5KGNx-Y) video to be helpful. 
 
 ## Instructions:
 
