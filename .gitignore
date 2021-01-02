@@ -1,5 +1,9 @@
 # MacOS config file
-.DS_Store
+*.DS_Store
+# Regression DataFrame is > 100 MB
+Data/regression_dataframe.csv
+# Internal Document, not needed for publishing
+Distribution_Tool.rtf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
